@@ -1,0 +1,72 @@
+export const products = [
+  {
+    id: 1,
+    name: "Wireless Mouse",
+    price: 799,
+    image: "/images/products/mouse.jpg",
+    category: "Electronics",
+  },
+  {
+    id: 2,
+    name: "Coffee Mug",
+    price: 249,
+    image: "/images/products/mug.jpg",
+    category: "Home",
+  },
+  {
+    id: 3,
+    name: "Mechanical Keyboard",
+    price: 2499,
+    image: "/images/products/keyboard.jpg",
+    category: "Electronics",
+  },
+  {
+    id: 4,
+    name: "Desk Lamp",
+    price: 1299,
+    image: "/images/products/lamp.jpg",
+    category: "Home",
+  },
+  {
+    id: 5,
+    name: "Water Bottle",
+    price: 599,
+    image: "/images/products/bottle.jpg",
+    category: "Fitness",
+  },
+  {
+    id: 6,
+    name: "Notebook",
+    price: 199,
+    image: "/images/products/notebook.jpg",
+    category: "Stationery",
+  },
+  {
+    id: 7,
+    name: "Headphones",
+    price: 1799,
+    image: "/images/products/headphone.jpg",
+    category: "Electronics",
+  },
+  {
+    id: 8,
+    name: "Backpack",
+    price: 1499,
+    image: "/images/products/backpack.jpg",
+    category: "Accessories",
+  },
+  {
+    id: 9,
+    name: "Coffee Beans",
+    price: 699,
+    image: "/images/products/coffee-bean.jpg",
+    category: "Grocery",
+  },
+  {
+    id: 10,
+    name: "Phone Stand",
+    price: 399,
+    image: "/images/products/phone-stand.jpg",
+    category: "Accessories",
+  }
+];
